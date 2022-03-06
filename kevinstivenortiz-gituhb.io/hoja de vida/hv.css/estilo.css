@@ -1,0 +1,64 @@
+.titulo{
+   margin-inline-start: 470px;
+   margin-inline-end: -300px;
+   color: white;
+   font-size: 25px;
+   font-family: Arial, Helvetica, sans-serif;
+   display: inline-block;
+   
+   
+
+}
+#soy{
+   font-size: small;
+   font-weight:normal;
+}
+header{
+   margin-top: -10px;
+   height: 4rem;
+   background:#22578A;
+}
+
+
+   
+   
+
+#texto{
+   background:#91FC83;
+   text-align: center;
+   margin: 0%;
+   margin-left: 0.4px;
+   margin-right: 0.4px;
+   
+}
+.sub{
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+   margin-left: 13rem;
+   font-size:25px;
+   text-transform: capitalize;
+}
+#educacion{
+   text-transform:uppercase;
+   margin-left: 13rem;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size:16px ;
+
+}
+#contenido{
+   margin-left: 13rem;
+   
+}
+.imagen{
+   width: 200px;
+   height: 200px;
+   margin: 5rem;
+   float: right;
+   margin-right: 15rem;
+   margin-top: 3rem;
+
+}
+#enlace{
+   margin-left: 11rem;
+}
+
